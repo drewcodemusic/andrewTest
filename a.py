@@ -1,2 +1,3 @@
 
-print('Today is Tuesday')
+# print('Today is Tuesday')
+print('tmr is Wed')
